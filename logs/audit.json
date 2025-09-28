@@ -1,0 +1,21 @@
+{
+    "keepSettings": {
+        "type": 1,
+        "amount": 2
+    },
+    "auditFilename": "logs/audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1758791362382,
+            "name": "D:\\Desktop\\juice-shop-master\\logs\\access.log.2025-09-25",
+            "hash": "4421f15c6b7b0a26bf90690d170795be"
+        },
+        {
+            "date": 1758849456441,
+            "name": "D:\\Desktop\\juice-shop-master\\logs\\access.log.2025-09-26",
+            "hash": "88de94b0d1fa78adf0cb1cc5c3364796"
+        }
+    ]
+}
